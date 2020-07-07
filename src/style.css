@@ -1,0 +1,13 @@
+.menu-area {
+    text-align: center;
+    background: #f7f7f7;
+    min-height: 500px;
+  }
+  
+  .container {
+    border: 1px solid #d8d8d8;
+    min-height: 300px;
+  }
+  .buttonMargin {
+    margin: 5px;
+  }
